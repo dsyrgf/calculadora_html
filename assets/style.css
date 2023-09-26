@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+
+}
+
+button {
+    padding: 5px 10px;
+}
+ 
+input{
+    width: 118px;
+    padding: 7px;
+    
+}
+
+#limpar{
+    width: 135px;
+}
+
+#ponto{
+   padding-right:17px ;
+}
+
+ #adicao{
+   padding-left:10px;
+ }
